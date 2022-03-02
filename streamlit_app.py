@@ -12,7 +12,7 @@ plt.style.use("fivethirtyeight")
 from datetime import datetime
 
 
-st.header("Part I")
+st.header("Part A: Exploring the volatility")
 st.title("Did the crypto volatility affect stock prices?")
 st.caption("1. Here, we can select Bitcoin and any other stock for comparison. Select two, or multiple stocks for comparison")
 
