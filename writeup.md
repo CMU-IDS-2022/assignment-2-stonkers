@@ -16,15 +16,15 @@
 We started by sketching some visualizations on paper based on our data and research question. We started creating paper prototypes for different graphs and possible interactions and then modified some visuals based on our coding capabilities.
 **Overview based on research questions:
 
-**Has the crypto volatility affected other stock returns?”** - to address this question we started to brainstorm ways in which we could compare the price of stocks with cryptocurrencies, and also with each other to see who was affected the most
-     Possible plots that we brainstormed:  
-            Correlation Plots
-            Bar charts for returns
-            Time-series graphs
+**Has the crypto volatility affected other stock returns?”** - to address this question we started to brainstorm ways in which we could compare the price of stocks with cryptocurrencies, and also with each other to see who was affected the most.
+Possible plots that we brainstormed:
+- Correlation Plots 
+- Bar charts for returns
+-  Time-series graphs
  1. With the first visualization, we wanted to give an overview of the change in returns for the stocks that the users select for the time frame.
       **Interactions:** When the user selects the stocks from the dropdown, the graph automatically updates to show the returns for the selected stocks
  2. To really utilize the power of Altair, we combined the time series chart that shows returns for all stocks and crypto, with a bar chart that shows average           return for the selected time frame.
-      ** Interactions:** 1. When the user selects a time frame on the time-series graph, the bar chart updates to show the average return for that specific time         frame. 2. When the user slides the selection, it shows the change in average return in the bar chart.
+      **Interactions:** 1. When the user selects a time frame on the time-series graph, the bar chart updates to show the average return for that specific time         frame. 2. When the user slides the selection, it shows the change in average return in the bar chart.
 
 **“Is there any pattern or trend when the 10 biggest movements happened in the particular stock”**
 
