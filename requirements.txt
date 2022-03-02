@@ -2,3 +2,9 @@ streamlit
 pandas
 altair
 yfinance
+pandas_datareader
+matplotlib
+seaborn
+datetime
+
+
