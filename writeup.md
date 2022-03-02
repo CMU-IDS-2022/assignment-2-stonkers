@@ -1,18 +1,30 @@
-# Project name
+# Stonkers
 
-![A screenshot of your application. Could be a GIF.](screenshot.png)
 
-TODO: Update screenshot
-
-TODO: Short abstract describing the main goals and how you achieved them.
 
 ## Project Goals
 
-TODO: **A clear description of the goals of your project.** Describe the question that you are enabling a user to answer. The question should be compelling and the solution should be focused on helping users achieve their goals. 
+**Major Goal:** Explore historical stock return trends
+**Research Questions:
+**
+1. Has the crypto volatility affected other stock returns? - Have these new highly volatile investment options, and the ever-changing crypto investment policies of different governments affected the returns of traditional stocks?
+2. Is there any pattern or trend when the 10 biggest movements happened in the particular stock - "History repeats itself" is a highly used phrase in the stock market world, how well does it hold, and is it true.
+
 
 ## Design
 
-TODO: **A rationale for your design decisions.** How did you choose your particular visual encodings and interaction techniques? What alternatives did you consider and how did you arrive at your ultimate choices?
+We started by sketching some visualizations on paper based on our data and research question. We started creating paper prototypes for different graphs and possible interactions and then modified some visuals based on our coding capabilities.
+**Overview based on research questions:
+
+Has the crypto volatility affected other stock returns?” - to address this question we started to brainstorm ways in which we could compare the price of stocks with cryptocurrencies, and also with each other to see who was affected the most
+     Possible plots that we brainstormed:  
+            Correlation Plots
+            Bar charts for returns
+            Time-series graphs
+  With the first visualization, we wanted to give an overview of the change in returns for the stocks that the users select for the time frame.
+      **Interactions:** When the user selects the stocks from the dropdown, the graph automatically updates to show the returns for the selected stocks
+
+
 
 ## Development
 
