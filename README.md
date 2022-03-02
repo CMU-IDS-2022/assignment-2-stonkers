@@ -1,6 +1,6 @@
 # CMU Interactive Data Science Assigment 2
 
-* **Team members**: psasapar@andrew.cmu.edu and udt@andrew.cmu.edu (Update XXXX with your team's emails)
+* **Team members**: psasapar@andrew.cmu.edu and udt@andrew.cmu.edu 
 * **Online URL**: https://share.streamlit.io/cmu-ids-2022/assignment-2-stonkers
 
 
