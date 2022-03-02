@@ -26,7 +26,7 @@ We started by sketching some visualizations on paper based on our data and resea
  2. To really utilize the power of Altair, we combined the time series chart that shows returns for all stocks and crypto, with a bar chart that shows average           return for the selected time frame.
       ** Interactions:** 1. When the user selects a time frame on the time-series graph, the bar chart updates to show the average return for that specific time         frame. 2. When the user slides the selection, it shows the change in average return in the bar chart.
 
-**“Is there any pattern or trend when the 10 biggest movements happened in the particular stock” **
+**“Is there any pattern or trend when the 10 biggest movements happened in the particular stock”**
 
 We had some domain knowledge as we personally belong to families who have been into stock market trading for more than the past 25 years. Thus, we intuitively and utilizing our domain knowledge started building visualizations that we thought might have some insights and might be useful. The domain knowledge helped us in deciding the parameters we should focus on while creating visualizations. In the process, we built some really insightful visualizations which unraveled a lot of information and hidden trends. Thus, while choosing our final set of visualizations we kept the visualizations most associated with each other and that really discovered some pattern or told a really good story/insight.   
 
