@@ -1,20 +1,8 @@
 # CMU Interactive Data Science Assigment 2
 
 * **Team members**: psasapar@andrew.cmu.edu and udt@andrew.cmu.edu (Update XXXX with your team's emails)
-* **Online URL**: https://share.streamlit.io/cmu-ids-2022/YYYY/master/streamlit_app.py (Update YYYY with your repo name)
+* **Online URL**: https://share.streamlit.io/cmu-ids-2022/assignment-2-stonkers
 
-## Instructions
-
-
-
-### Deploy to Streamlit Sharing
-
-Before you can view your application online, you need to have it set up with Streamlit Cloud. 
-Sign up for a [free Starter Streamlit Cloud account](https://streamlit.io/cloud). 
-
-Then, go to [share.streamlit.io](https://share.streamlit.io) to deploy your Streamlit app by creating a new app and pointing it to your github repo.
-
-Once the repo is set up, please update the URL as the top of this readme and add the URL as the website for this GitHub repository.
 
 ### Deliverables
 
