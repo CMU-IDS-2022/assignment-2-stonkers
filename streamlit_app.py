@@ -78,7 +78,7 @@ return_comparison_viz = scatter & bar
 
 
 st.title("Did the crypto volatility affect stock returns?")
-st.caption("Both the visualization represent stock returns over the last year. Click on the graph and select a time-period you want to explore. Slide your selection across the graph, to view the change in returns for each stock at the bottom ")
+st.caption("2. Both the visualization represent stock returns over the last year. Click on the graph and select a time-period you want to explore. Slide your selection across the graph, to view the change in returns for each stock at the bottom ")
 
 st.write(return_comparison_viz)
 
