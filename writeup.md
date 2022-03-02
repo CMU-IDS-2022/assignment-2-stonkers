@@ -50,13 +50,14 @@ We built and intuitive as well as well thought visualizations using the domain k
 
 Key insights and discoveries addressing our questions:
 
-**“Has the crypto volatility affected other stock returns?” **
+**“Has the crypto volatility affected other stock returns?”**
 
-     - Contrary to the popular belief, the crypto volatility hasn’t shown significant affect on stock returns. In our interaction with the bar chart and time series        graphs, some stocks showed positive correlation with crypto returns while some showed negative.
-     - It was a success to be able to see in a visually clear manner, how the average of returns changed for each stock option over time.
+     Contrary to the popular belief, the crypto volatility hasn’t shown significant affect on stock returns. In our interaction with the bar chart and time series        graphs, some stocks showed positive correlation with crypto returns while some showed negative.
+     It was a success to be able to see in a visually clear manner, how the average of returns changed for each stock option over time.
 
 
 **“ Is there any pattern or trend when the 10 biggest movements happened in the particular stock”**
+
      We observed that most of the daily percentage changes are in the range of -1 to 1. When the frequency of percentage changes is plotted against its count, we observe that it almost looks like a normal distribution and the plot assumes a shape like a bell curve which is centered at 0. This was true for almost all of the stocks. 
      This is a very critical point to be considered while doing intraday trading. As, to make profits while intraday trading you should be very selective about which stock you are selecting because the majority of the time the stock price is not going to change very much in a single day. 
      That being said, in another of our visualizations where we plot top 10 percentage changes in the last 5 years we observed that sometimes there were changes as high as 58% on one single day. Thus, if correct strategies, domain expertise, and strong analysis of the scenario is done, a huge amount of profits can be made by intraday trading as well. 
